@@ -26,33 +26,34 @@ _With innovative approaches and advanced methodologies, Vecta Corporation provid
 
 #### _vProspect 2.0_
 
-> Define and research your target audience, define your strategy to reach that audience and present a strong and memorable brand to that audience.
+ Define and research your target audience, define your strategy to reach that audience and present a strong and memorable brand to that audience.
 
   
 
 #### _vConvert 2.0_
 
->Create a highly user-friendly and easy-to-navigate information architecture that will help your prospects interact with the company on a highly interactive level.
+Create a highly user-friendly and easy-to-navigate information architecture that will help your prospects interact with the company on a highly interactive level.
 
   
 
 #### _vRetain 1.0_
 
->Build on existing customer relationships to improve productivity and maximize customer loyalty, while growing revenues.
+Build on existing customer relationships to improve productivity and maximize customer loyalty, while growing revenues.
 
   
 
 #### Client Testimonials
 
-Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially.  
+>Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially.  
+
 _Ferris Finkelstein_  
 Founder and CEO  
 Dorknozzle  
 
   
 
-Incredible results from an incredible effort by the Vecta Corporation team!
-We are very pleased with the business benefits we have received by working with them.  
+>Incredible results from an incredible effort by the Vecta Corporation team! We are very pleased with the business benefits we have received by working with them.  
+
 _Justin Case_  
 CTO  
 IX Inc.  
