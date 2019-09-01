@@ -11,6 +11,11 @@
 
   
 
+![](https://png.pngtree.com/element_pic/00/16/07/115783931601b5c.jpg)
+# Vecta Corporation
+
+  
+
 ### About Vecta Corp
 
 _With innovative approaches and advanced methodologies, Vecta Corporation provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction. Our approach stems from the three most important business growth aspects: helping companies reach prospects, assist in converting prospects to customers, and assist in retaining those customers. This is accomplished through our interactive solutions and expertise in providing a memorable and positive user experience._
@@ -39,7 +44,7 @@ _With innovative approaches and advanced methodologies, Vecta Corporation provid
 
 #### Client Testimonials
 
-Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially.
+Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially.  
 _Ferris Finkelstein_  
 Founder and CEO  
 Dorknozzle  
@@ -47,7 +52,7 @@ Dorknozzle
   
 
 Incredible results from an incredible effort by the Vecta Corporation team!
-We are very pleased with the business benefits we have received by working with them.
+We are very pleased with the business benefits we have received by working with them.  
 _Justin Case_  
 CTO  
 IX Inc.  
