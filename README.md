@@ -19,8 +19,6 @@ _With innovative approaches and advanced methodologies, Vecta Corporation provid
 
 ### Our Solutions
 
-  
-
 #### _vProspect 2.0_
 
 > Define and research your target audience, define your strategy to reach that audience and present a strong and memorable brand to that audience.
@@ -41,30 +39,17 @@ _With innovative approaches and advanced methodologies, Vecta Corporation provid
 
 #### Client Testimonials
 
-  
-
 Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially.
-
-  
-
 _Ferris Finkelstein_  
-
 Founder and CEO  
-
 Dorknozzle  
 
   
 
-_Incredible results from an incredible effort by the Vecta Corporation team!_
-
-We are very pleased with the business benefits we have rceived by working with them.
-
-  
-
+Incredible results from an incredible effort by the Vecta Corporation team!
+We are very pleased with the business benefits we have received by working with them.
 _Justin Case_  
-
 CTO  
-
 IX Inc.  
 
   
@@ -74,11 +59,8 @@ IX Inc.
   
 
 Vecta Corporation  
-
 555 Technology Place  
-
 San Diego, CA 92115  
-
 Tel. (800) 555-5555  
 
   
@@ -87,12 +69,12 @@ Tel. (800) 555-5555
 
   
 
-* Agnes, Vice President, Accounting
+* _Agnes_, Vice President, Accounting
 
-* Damon, Director of Development
+* _Damon_, Director of Development
 
-* Herbert, Director of Human Resources
+* _Herbert_, Director of Human Resources
 
-* Mike, Vice President, Marketing
+* _Mike_, Vice President, Marketing
 
-* Ferris, Founder and CEO
+* _Ferris_, Founder and CEO
